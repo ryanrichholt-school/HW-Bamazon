@@ -1,0 +1,16 @@
+{
+  "name": "hw-bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.9.1",
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0"
+  }
+}
